@@ -22,12 +22,13 @@ Welcome to our mini project for SC1015. Our objective is to find out what is a s
 - Melvin - insert contributions here
 - Winfred - insert contributions here
 
-## Algorithms and Libraries
+## ML Algorithms
 
-1. K-means clustering
+- K-means clustering
 
 
 
 ## References
 
-- <insert link here>
+- <https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html>
+- <https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/>
