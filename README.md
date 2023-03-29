@@ -18,9 +18,9 @@ Welcome to our mini project for SC1015. Our objective is to find out what is a s
   
 ## Contributors
 
-- @jerrell_y - insert contributions here
-- @tiltage - insert contributions here
-- @winfredcheok - insert contributions here
+- Jerrell - insert contributions here
+- Melvin - insert contributions here
+- Winfred - insert contributions here
 
 ## Algorithms and Libraries
 
