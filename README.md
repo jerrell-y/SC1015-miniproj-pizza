@@ -6,11 +6,14 @@
 
 ## About
 
-Welcome to our mini project for SC1015. We will be analyzing data from [Pizza Restaurants in the US](https://www.kaggle.com/datasets/cid007/pizza-restaurants-us). Please view the source code in order from:
+Welcome to our mini project for SC1015. Our objective is to find out what is a suitable location for us to set up our pizza shop and an appropriate price to sell our pizza at. We will be analyzing data from [Pizza Restaurants in the US](https://www.kaggle.com/datasets/cid007/pizza-restaurants-us). Please view the source code in order from:
 
 1. [EDA](insert link to code here)
+[Explanation of code here]
 2. [Data prep and cleaning](insert link here)
+[Explanation of code here]
 3. [Setting up the ML problem](insert link here)
+[Explanation of code here]
   
 ## Contributors
 
@@ -18,21 +21,11 @@ Welcome to our mini project for SC1015. We will be analyzing data from [Pizza Re
 - @tiltage - insert contributions here
 - @winfredcheok - insert contributions here
 
-## Problem Definition
-
-- We are planning to set up a pizza joint in the US. What is a suitable location to set up in and an appropriate price for our pizza?
-
-## Models Used
+## Algorithms and Libraries
 
 1. K-means clustering
 
-## Conclusion
 
-- yes
-
-## What did we learn from this project?
-
-- yes
 
 ## References
 
