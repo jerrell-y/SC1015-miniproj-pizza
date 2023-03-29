@@ -6,8 +6,9 @@
 
 ## About
 
-Welcome to our mini project for SC1015. Our objective is to find out what is a suitable location for us to set up our pizza shop and an appropriate price to sell our pizza at. We will be analyzing data from [Pizza Restaurants in the US](https://www.kaggle.com/datasets/cid007/pizza-restaurants-us). Please view the source code in order from:
+Welcome to our mini project for SC1015. Our objective is to find out what is a suitable location for us to set up our pizza shop and an appropriate price to sell our pizza at. We will be analyzing data from [Pizza Restaurants in the US](https://www.kaggle.com/datasets/cid007/pizza-restaurants-us).
 
+## Files
 1. [EDA](insert link to code here)
 [Explanation of code here]
 2. [Data prep and cleaning](insert link here)
