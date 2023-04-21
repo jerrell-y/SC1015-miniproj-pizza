@@ -13,9 +13,11 @@ Welcome to our mini project for SC1015. Our objective is to find out what is a s
   
 ## Contributors
 
-- Jerrell - insert contributions here
-- Melvin - insert contributions here
-- Winfred - insert contributions here
+- Jerrell - exploratory data analysis, cluster analysis
+- Melvin - core analysis, metrics for k-means
+- Winfred - cleaning of dataset, conclusion
+
+(Slides and scripts equally done by everyone)
 
 ## ML Algorithms
 
